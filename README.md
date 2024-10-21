@@ -8,6 +8,7 @@ Este projeto consiste em um formulário de cadastro e login puramente estético,
 
 - **HTML**
 - **CSS**
+- **JavaScript**
 
 ## Funcionalidades
 
